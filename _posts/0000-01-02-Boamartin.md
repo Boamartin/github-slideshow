@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**Pain is temporary glory is forever**
 Use the left arrow to go back!
